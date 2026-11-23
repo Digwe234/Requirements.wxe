@@ -1,2 +1,5 @@
-# Requirements.wxe
-require 
+streamlit
+opencv-python
+pillow
+numpy
+
